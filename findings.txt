@@ -1,0 +1,13 @@
+OWASP Juice Shop Vulnerability Findings
+
+1. Server Information Disclosure
+Risk: Low
+
+2. Missing Content Security Policy
+Risk: Medium
+
+3. Technical Header Exposure
+Risk: Low
+
+4. Potential Information Leakage
+Risk: Medium
